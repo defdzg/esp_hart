@@ -1,0 +1,5 @@
+version: "1.0.0"
+description: Highway Addressable Remote Transducer (HART) library for ESP-IDF
+url: https://github.com/defdzg/esp_hart
+dependencies:
+  idf: ">=5.1"
